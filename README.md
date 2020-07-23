@@ -14,15 +14,15 @@ $ ./project.exe
   - Flip, drag, capture the chess by your mouse.
   - Make a move within 15 seconds.
   - It would be tie if there is no capture in 15 rounds.
-    ![picture]()
+    ![picture](pic1.png)
   
 - **How it works**
   - Setup
-    ![picture]()
+    ![picture](pic2.png)
   - `mousePressEvent()`
-    ![picture]()
+    ![picture](pic3.png)
   - `pressAction()`
-    ![picture]()
+    ![picture](pic4.png)
   - `machinePlaying()`
-    ![picture]()
+    ![picture](pic5.png)
   
